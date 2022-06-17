@@ -4,6 +4,6 @@ public class homework {
     public static void main(String[] args) {
         System.out.println("Hello World");
 
-        System.out.println("testis...");
+        System.out.println("test...");
     }
 }
