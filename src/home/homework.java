@@ -5,5 +5,7 @@ public class homework {
         System.out.println("Hello World");
 
         System.out.println("test...");
+        int a = 5;
+
     }
 }
